@@ -1,8 +1,8 @@
 
 
 ### 什么是NFT-market
-NFT-market系统是基于以太坊开发的去中心化NFT市场, NFT-market借鉴了Rarible智能合约,实现免手续费离线签名，帮助用户在交易NFT的同时，减少手续费消耗。NFT-market可部署在以太坊、币安、火币、MATIC等流行的公链上。采用流行的Java与Vue语言开发，结合当下流行的后端技术Spring Boot后端框架和主流的前端框架Vue3，移动端采用uniapp技术, 实现前后端分离技术，是技术团队二开NFT市场的不二之选。
-NFT-market具有技术主流、价格低、授权宽松等特点。NFT-market系统支持各大钱包的dapp浏览器，同时还兼容全球主流的NFT交易市场Opensea和Rarible，在FingerNFT上创建的NFT均可在Opensea等主流平台上售卖，同时其他平台的NFT也可在NFT-market系统上售卖。目前NFT-market拥有【开源版】、【基础版】、【盲盒+拍卖版】、【流动性质押版】、【区块链游戏市场(gamefi)版】。
+NFT-market系统是基于以太坊开发的去中心化NFT市场, NFT-market借鉴了Rarible智能合约,实现免手续费离线签名，帮助用户在交易NFT的同时，减少手续费消耗。NFT-market可部署在以太坊、币安、火币、MATIC等流行的公链上。采用流行的Java与Vue语言开发，结合当下流行的后端技术Spring Boot后端框架和主流的前端框架Vue3，移动端采用uniapp技术, 实现前后端分离技术。
+
 
 ### 功能
 
