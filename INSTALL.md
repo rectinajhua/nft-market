@@ -10,7 +10,7 @@
 - token-contract ERC20代币合约
 
 # 服务器搭建
-Finger Nft搭建可以用宝塔面板，通过宝塔安装，后续如果为了安全，可以把宝塔关闭，建议不要安装phpAdmin。
+nft-market搭建可以用宝塔面板，通过宝塔安装，后续如果为了安全，可以把宝塔关闭，建议不要安装phpAdmin。
 
 ## 环境搭建
 以下可以用宝塔面板安装，如果没有宝塔，请自行编译安装或yum安装
@@ -76,7 +76,7 @@ nohup ipfs daemon > ipfs.log &
 记得执行完成后，敲一下回车，直接断开连接，有可能也导致ipfs关闭
 
 
-## Finger Nft市场搭建
+## nft-market市场搭建
 
 市场对应的工程是fingernft-api-对应版本（eg:fingernft-api-base）
 
